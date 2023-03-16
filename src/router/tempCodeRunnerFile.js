@@ -1,0 +1,4 @@
+{
+  //   path: '/:catchAll(.*)',
+  //   redirect: "/NotFoundView/",
+  // },
